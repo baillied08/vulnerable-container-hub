@@ -46,7 +46,7 @@ jobs:
       uses: orcasecurity/shiftleft-container-image-action@v1
       with:
           api_token: ${{ secrets.ORCA_TOKEN_DEMO_ACCOUNT }}
-          project_key: "shiftleft-security-awesome_repo"
+          project_key: "baillied08-vulnerable-container-hub"
           image: ${{ env.IMAGE_NAME}}
           console_output: "table"
           format: "table"
