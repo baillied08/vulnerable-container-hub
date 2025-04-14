@@ -1,4 +1,4 @@
-name: Orca Demo - Image Scan
+name: Orca Demo - Image Scan 2
 
 on:
   schedule:
